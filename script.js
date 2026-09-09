@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     event.preventDefault();
 
     // 1. Specify the recipient email address
-    const recipientEmail = 'your-email@example.com'; // Replace with your actual email
+    const recipientEmail = 'work-xinli525@gmail.com'; // Replace with your actual email
 
     // 2. Extract values from form inputs
     const senderName = document.getElementById('name').value.trim();
